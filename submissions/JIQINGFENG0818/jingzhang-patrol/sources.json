@@ -101,6 +101,76 @@
       "usage": "现状慢行网络、机动车干道、铁路与京包线遗迹线位、现状公园；用于连通性诊断、街廓多边形化与指标复算。",
       "attribution": "© OpenStreetMap contributors, ODbL 1.0",
       "limitations": "众包数据，完整性与现势性不保证；缺口处是否已有未录入步道需现场核实。按 allowed_design_space.data_policy.may_use_osm_for_bootstrap_base_layers 使用，不作为官方边界或法定依据，亦未登记进中央 source_registry。"
+    },
+    {
+      "id": "NETWORK-RAIL-INSIGHT",
+      "url": "https://www.networkrail.co.uk/industry-and-commercial/insight-using-ai-to-run-a-reliable-railway/",
+      "publisher": "Network Rail (UK)",
+      "document": "insight — using AI to run a reliable railway",
+      "retrieved": "2026-08-10",
+      "source_type": "official_public",
+      "usage": "C-01 案例：铁路基础设施从反应式维修转向预测性养护的官方说明；用于支撑「巡检数据回流资产健康画像」与「机器替代危险工位」两项主张。",
+      "limitations": "运营方自述材料，非独立第三方评估；其量化收益未在本方案中引用为可比指标。所引专利号 GB2620615（2024-10 授权）为该页面自述。"
+    },
+    {
+      "id": "HELSINKI-AI-REGISTER",
+      "url": "https://ai.hel.fi/en/ai-register/",
+      "publisher": "City of Helsinki",
+      "document": "City of Helsinki AI Register",
+      "retrieved": "2026-08-10",
+      "source_type": "official_public",
+      "usage": "C-02 案例：城市逐条公开在用 AI 系统的登记册字段与「已停用」状态标注；用于支撑 N-01 实体公开屏与装备册「退役与回滚」字段。",
+      "limitations": "登记条目数量与状态随时间变化，本方案引用的是检索日的页面口径，不作外推。"
+    },
+    {
+      "id": "AMSTERDAM-ALGORITHM-REGISTER",
+      "url": "https://algoritmeregister.amsterdam.nl/en/ai-register/",
+      "publisher": "City of Amsterdam",
+      "document": "Amsterdam Algorithm Register",
+      "retrieved": "2026-08-10",
+      "source_type": "official_public",
+      "usage": "C-03 案例：城市服务在用算法的公开说明，含公共报事分派用例；用于支撑 S-03 居民报修与工单流转中「分派规则对外可读」的主张。",
+      "limitations": "公开用例数量随时间变化，本方案引用检索日口径；停车执法的车位规模为该页面自述。"
+    },
+    {
+      "id": "SG-LAAP",
+      "url": "https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/lamppost-as-a-platform/overview.html",
+      "publisher": "GovTech Singapore, Smart Nation Platform Solutions Office",
+      "document": "Lamppost-as-a-Platform (LaaP) Overview",
+      "retrieved": "2026-08-10",
+      "source_type": "official_public",
+      "usage": "C-04 案例：以路灯杆为共用传感底座的模块清单与选择理由；正向用于杆上载荷与充电停靠点的组织方式，反向用于论证装备册须写明运维责任与数据保留期限。",
+      "limitations": "该公开材料未披露共享设施的运维责任分工与完整隐私保障细节；本方案据此只引用其模块构成与「可靠电源」这一选择理由，不据以推断其运维制度。"
+    },
+    {
+      "id": "ARM-MILL19",
+      "url": "https://arminstitute.org/news/mill-19-opening/",
+      "publisher": "Advanced Robotics for Manufacturing (ARM) Institute",
+      "document": "ARM Opens Mill 19 at Hazelwood Green",
+      "retrieved": "2026-08-10",
+      "source_type": "institution_public",
+      "usage": "C-05 案例：遗产工业用地改造为机器人重装实训与共享测试场的空间配比（高跨与吊车、培训室、共享工位同栋组织）；用于支撑北巡线所优先改造既有厂房类建筑的主张。",
+      "limitations": "机构自述材料，非政府公告；面积、日期与基金会名单为该页面自述，本方案不据以推断投资额或产值。"
+    },
+    {
+      "id": "EU-AI-ACT-ART57",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-57",
+      "publisher": "European Commission, AI Act Service Desk",
+      "document": "Regulation (EU) 2024/1689, Article 57 — AI Regulatory Sandboxes",
+      "retrieved": "2026-08-10",
+      "source_type": "official_public",
+      "usage": "C-06 案例：国家级 AI 监管沙盒的设立义务、指导与监督、退出报告、行政罚款豁免条件与真实世界受监督测试条款；用于支撑小月河实测翼的「进入—指导—退出报告」制度外壳。",
+      "limitations": "欧盟法规，不在中国境内适用；本方案仅引用其制度结构作为参照，不作法律适用主张。"
+    },
+    {
+      "id": "BJ-AV-DEMO-ZONE",
+      "url": "https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/lqztkfq/cxal/jkq/202304/t20230412_3025685.html",
+      "publisher": "北京经济技术开发区管理委员会",
+      "document": "北京市高级别自动驾驶示范区建设模式改革创新实践案例（2023-04-12）",
+      "retrieved": "2026-08-10",
+      "source_type": "official_public",
+      "usage": "C-07 国内对照：四阶段迭代建设模式、该文口径的建成规模，以及市级领导小组＋示范区工作办公室＋市场化运营平台公司的组织形态；用于支撑本方案分期与长期运营机制。",
+      "limitations": "该文发布于 2023 年 4 月，示范区范围此后持续扩展；本方案只引用该文发布时点的官方数字，不作外推，也不据以推断当前规模。"
     }
   ]
 }

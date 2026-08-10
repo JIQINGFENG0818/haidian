@@ -11,7 +11,10 @@
         "可巡性诊断：208.9 km 慢行网络碎成 113 段",
         "缝合口：187 m 新建步道换 70.4 km 可达网络",
         "重点区域详细设计",
-        "指标体系、面积复算与合规矩阵"
+        "指标体系、面积复算与合规矩阵",
+        "全球 AI 创新生态案例（agent.2，7 例）",
+        "创新生态图谱与八项要素机制（agent.2）",
+        "制度参照（agent.2）"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson",
@@ -62,7 +65,14 @@
         "NRA-CENTENNIAL-JINGZHANG",
         "MOF-PROCUREMENT-DEMAND-2021",
         "BJ-AV-REGULATION-2025",
-        "OSM-OVERPASS-2026-05-31"
+        "OSM-OVERPASS-2026-05-31",
+        "NETWORK-RAIL-INSIGHT",
+        "HELSINKI-AI-REGISTER",
+        "AMSTERDAM-ALGORITHM-REGISTER",
+        "SG-LAAP",
+        "ARM-MILL19",
+        "EU-AI-ACT-ART57",
+        "BJ-AV-DEMO-ZONE"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -455,7 +465,10 @@
         "可巡性诊断：208.9 km 慢行网络碎成 113 段",
         "缝合口：187 m 新建步道换 70.4 km 可达网络",
         "重点区域详细设计",
-        "指标体系、面积复算与合规矩阵"
+        "指标体系、面积复算与合规矩阵",
+        "全球 AI 创新生态案例（agent.2，7 例）",
+        "创新生态图谱与八项要素机制（agent.2）",
+        "制度参照（agent.2）"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson",
@@ -506,7 +519,14 @@
         "NRA-CENTENNIAL-JINGZHANG",
         "MOF-PROCUREMENT-DEMAND-2021",
         "BJ-AV-REGULATION-2025",
-        "OSM-OVERPASS-2026-05-31"
+        "OSM-OVERPASS-2026-05-31",
+        "NETWORK-RAIL-INSIGHT",
+        "HELSINKI-AI-REGISTER",
+        "AMSTERDAM-ALGORITHM-REGISTER",
+        "SG-LAAP",
+        "ARM-MILL19",
+        "EU-AI-ACT-ART57",
+        "BJ-AV-DEMO-ZONE"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -603,7 +623,10 @@
         "可巡性诊断：208.9 km 慢行网络碎成 113 段",
         "缝合口：187 m 新建步道换 70.4 km 可达网络",
         "重点区域详细设计",
-        "指标体系、面积复算与合规矩阵"
+        "指标体系、面积复算与合规矩阵",
+        "全球 AI 创新生态案例（agent.2，7 例）",
+        "创新生态图谱与八项要素机制（agent.2）",
+        "制度参照（agent.2）"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson",
@@ -654,7 +677,14 @@
         "NRA-CENTENNIAL-JINGZHANG",
         "MOF-PROCUREMENT-DEMAND-2021",
         "BJ-AV-REGULATION-2025",
-        "OSM-OVERPASS-2026-05-31"
+        "OSM-OVERPASS-2026-05-31",
+        "NETWORK-RAIL-INSIGHT",
+        "HELSINKI-AI-REGISTER",
+        "AMSTERDAM-ALGORITHM-REGISTER",
+        "SG-LAAP",
+        "ARM-MILL19",
+        "EU-AI-ACT-ART57",
+        "BJ-AV-DEMO-ZONE"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
@@ -1343,7 +1373,10 @@
         "可巡性诊断：208.9 km 慢行网络碎成 113 段",
         "缝合口：187 m 新建步道换 70.4 km 可达网络",
         "重点区域详细设计",
-        "指标体系、面积复算与合规矩阵"
+        "指标体系、面积复算与合规矩阵",
+        "全球 AI 创新生态案例（agent.2，7 例）",
+        "创新生态图谱与八项要素机制（agent.2）",
+        "制度参照（agent.2）"
       ],
       "geojson_layers": [
         "geometry/site_boundary.geojson",
@@ -1394,7 +1427,14 @@
         "NRA-CENTENNIAL-JINGZHANG",
         "MOF-PROCUREMENT-DEMAND-2021",
         "BJ-AV-REGULATION-2025",
-        "OSM-OVERPASS-2026-05-31"
+        "OSM-OVERPASS-2026-05-31",
+        "NETWORK-RAIL-INSIGHT",
+        "HELSINKI-AI-REGISTER",
+        "AMSTERDAM-ALGORITHM-REGISTER",
+        "SG-LAAP",
+        "ARM-MILL19",
+        "EU-AI-ACT-ART57",
+        "BJ-AV-DEMO-ZONE"
       ],
       "assumption_ids": [
         "A-CONTROLS-001"
