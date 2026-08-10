@@ -541,7 +541,7 @@ The following maintenance-side indicators are **proposed for inclusion**. This v
 
 ### Topology check
 
-The ratio of the union area of the land-use layer to the site area is 1.000000 `[metric:land_use_coverage_ratio]`, i.e. the 60 polygons cover the design area completely. Spatial review returns PASS, retaining three `KEY_AREA_PROVISIONAL` notes arising from the absence of official boundaries, which by the rules do not affect content scoring.
+The ratio of the union area of the land-use layer to the site area is 1.000000 `[metric:land_use_coverage_ratio]`, i.e. the 60 polygons cover the design area completely. Spatial review returns PASS, retaining three `KEY_AREA_PROVISIONAL` notes arising from the absence of official boundaries. Those notes are a factual record from the spatial review; eligibility and scoring are maintainer decisions, and this proposal makes no assumption about either.
 
 ### Compliance matrix mapping
 
