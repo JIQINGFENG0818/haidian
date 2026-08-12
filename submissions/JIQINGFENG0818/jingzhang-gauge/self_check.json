@@ -61,13 +61,15 @@
         "submissions/JIQINGFENG0818/jingzhang-gauge/self_check.json",
         "submissions/JIQINGFENG0818/jingzhang-gauge/sources.json",
         "submissions/JIQINGFENG0818/jingzhang-gauge/standard_matrix.json",
+        "submissions/JIQINGFENG0818/jingzhang-gauge/visual/assets/gauge-tour-data.js",
+        "submissions/JIQINGFENG0818/jingzhang-gauge/visual/assets/gauge-tour.js",
         "submissions/JIQINGFENG0818/jingzhang-gauge/visual/index.en.html",
         "submissions/JIQINGFENG0818/jingzhang-gauge/visual/index.html"
       ],
       "ai_package_stages": {
         "submissions/JIQINGFENG0818/jingzhang-gauge": "formal"
       },
-      "total_bytes": 16763850,
+      "total_bytes": 17243679,
       "maintainer_bypass": false
     },
     "stderr": ""
